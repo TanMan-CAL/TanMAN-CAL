@@ -15,7 +15,7 @@ Hey there! I’m **Tanmay**, a software engineering student with a passion for c
 
 ## 🛠️ **Experience Highlights**
 - Developed numerous **full-stack applications with MERN**, integrating real-time data through **custom REST APIs** 🌐 and using **JWT** to create secure user authentication 🔒.
-- Built machine learning models for tasks like **object detection** 🤖, **facial emotion recognition** 😊, and **natural language generation** 📝, optimizing performance with **transfer learning** 📈.
+- Built machine learning models for tasks like **object detection** 🤖, **facial emotion recognition** 😊, and **natural language generation** 📝, and increased confidence with **transfer learning** 📈.
 - **I led my own robotics team** at my high school, where we successfully advanced to the provincial championship and won an **Innovation Award** 🏆 for our exceptional work in robot design, object detection, and autonomous algorithms ⚙️.
 
 
