@@ -52,17 +52,4 @@ Hey there! I’m **Tanmay**, a software engineering student with a passion for c
 
 ---
 
-
-<h3 align="left">🌐 Connect with Me</h3>
-<p align="left">
-  <a href="https://linkedin.com/in/tanmay-sh" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="tanmay-sh" height="30" width="40" />
-  </a>
-  <a href="https://instagram.com/tanmay.shhah" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="tanmay.shhah" height="30" width="40" />
-  </a>
-</p>
-
----
-
 Feel free to explore my repositories and projects! I love collaborating on exciting tech projects, so if you have an idea or a challenge, let's connect! 🎉🚀
