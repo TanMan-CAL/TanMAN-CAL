@@ -1,8 +1,4 @@
-# **Tanmay Shah** 🚀
+i really like to code and do random things on my computer!
 
-### Software Engineering Student at the University of Waterloo
-📍 **Waterloo, ON** | 📧 **tanmay.shah@uwaterloo.ca**  
-
-
-Hey there! I’m **Tanmay**!
-I love collaborating on exciting tech projects, so if you have an idea or a challenge, let's connect! 🎉
+email: tanmay.shah@uwaterloo.ca
+linkedin: https://www.linkedin.com/in/ts07/
